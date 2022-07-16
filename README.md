@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=4E77F7&center=true&vCenter=true&multiline=true&lines=Hey%2C+you+find+me!)](https://git.io/typing-svg)
+
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +17,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Statistics
+
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=YottaLee" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YottaLee&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=YottaLee" />
+</div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=YottaLee&theme=minimal" />
+</div>
+
+
+
