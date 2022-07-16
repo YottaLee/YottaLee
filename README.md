@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **YottaLee/YottaLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-### Statistics
+[![trophy](https://github-profile-trophy.vercel.app/?username=YottaLee&column=7)](https://github.com/YottaLee)
+
 
 <div align="center">
 <span>  </span>
