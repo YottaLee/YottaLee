@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=4E77F7&center=true&vCenter=true&multiline=true&lines=Hey%2C+you+find+me!)](https://git.io/typing-svg)
-
-
 ### Hi there 👋
 
 <!--
