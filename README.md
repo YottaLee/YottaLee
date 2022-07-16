@@ -28,9 +28,4 @@ Here are some ideas to get you started:
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=YottaLee" />
 </div>
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=YottaLee&theme=minimal" />
-</div>
-
-
 
