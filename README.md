@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=YottaLee&color=brightgreen)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YottaLee&column=7)](https://github.com/YottaLee)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YottaLee&column=7&center=true)](https://github.com/YottaLee)
 
 
 <div align="center">
@@ -28,5 +30,6 @@ Here are some ideas to get you started:
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=YottaLee" />
 </div>
+
 
 
